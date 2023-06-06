@@ -8,6 +8,8 @@ This includes:
 
 ## Installation
 
+You need install `wireguard` in your server first then run the docker command after.
+
 ```bash
 docker-compose -f docker-compose.yml up -d
 ```
