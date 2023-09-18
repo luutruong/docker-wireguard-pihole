@@ -2,7 +2,7 @@
 
 This includes:
 
-- Wireguard
+- [Wireguard](https://github.com/linuxserver/docker-wireguard)
 - Pihole (latest)
 - Caddy (to supports ssl access to pihole manager)
 
