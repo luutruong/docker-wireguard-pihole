@@ -17,3 +17,9 @@ docker-compose -f docker-compose.yml up -d
 ## Config
 
 You will need update `Caddyfile` to your domain; it uses localhost as default.
+
+## Show peer
+
+```bash
+docker exec -it wireguard /app/show-peer <id or name>
+```
